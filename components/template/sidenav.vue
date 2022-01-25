@@ -19,7 +19,7 @@
             <hr >
 
             <span class="text-black opacity-50 font-thin hidden lg:block">Log in to follow creators, like videos, and view comments.</span>
-            <button class="border border-primary rounded text-white py-3 font-bold hover:bg-pink-100 text-primary hidden lg:block">
+            <button class="border border-primary rounded text-white py-2 font-bold hover:bg-pink-100 text-primary hidden lg:block">
                 Log In
             </button>
 

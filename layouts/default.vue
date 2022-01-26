@@ -12,6 +12,7 @@
         <ModalLogin />
         <ModalLoginForm />
         <ModalRegister />
+        <ModalRegisterForm />
     </div>
 </template>
 

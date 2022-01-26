@@ -14,7 +14,7 @@
 
             <div class="flex flex-row">
                 <button class="font-bold px-4 py-2">Upload</button>
-                <button class="font-bold px-8 py-2 rounded bg-primary text-white whitespace-nowrap">Log In</button>
+                <button class="font-bold px-8 py-2 rounded bg-primary text-white whitespace-nowrap" @click="$modal.show('login')">Log In</button>
                 <div class="relative">
                     <button class="font-bold px-4 py-2 hidden sm:block" @click="show = !show">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
